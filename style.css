@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul li {
+  list-style: none;
+  padding: 10px 0;
+}
+h1 {
+  text-align: center;
+}
+.quiz-container {
+  text-align: center;
+  padding: 20px 20px;
+}
+h2#question {
+  padding: 20px 0;
+}
+input#a {
+  cursor: pointer;
+  /* padding: 0 20px; */
+}
+label {
+  padding: 0 20px;
+}
+button#btn {
+  padding: 10px 30px;
+  font-size: 20px;
+}
